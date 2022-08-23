@@ -1,5 +1,5 @@
-# UX Portfolio
-
+# Derek Bergman's UX Portfolio
+[Photo of me](assests/Derek-Monterey.jpg)
 
 ## UX Team Project
 
