@@ -9,4 +9,4 @@ I grew up in Sacramento and would like to get a job related to Artificial Intell
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[My frustrating interaction with A/C controls](j02/)
